@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class TypeOfWebsite {
     public static void main(String[] args) {
-        System.out.println("We are finding the type of website by their Domain name");
+        System.out.println("We are finding the type of website by their Domain name try .com,.in,.gov etc directly");
         Scanner s = new Scanner(System.in);
         String var = s.nextLine();
 
