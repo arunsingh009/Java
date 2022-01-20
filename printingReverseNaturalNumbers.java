@@ -8,7 +8,7 @@ public class printingReverseNaturalNumbers {
         System.out.println("Enter upper Limit");
         int input = s.nextInt();
         int i=0;
-        System.out.println("list of odd numbers");
+        System.out.println("list of natural numbers");
         for (i=input;i>=0;i--){
             System.out.println(i);
         }
