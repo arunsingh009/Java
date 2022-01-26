@@ -6,7 +6,7 @@ public class FibonacciSeriesUsingJava {
     static void fib(int a){
         int n=0;
         int m=1;
-        int o=0;
+        int o;
         for(int i=2;i<a;++i){
            o=n+m;
            System.out.print(","+o);
